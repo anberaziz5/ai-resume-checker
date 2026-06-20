@@ -1,0 +1,7 @@
+Flask
+flask-cors
+groq
+PyPDF2
+pydantic
+python-dotenv
+gunicorn
